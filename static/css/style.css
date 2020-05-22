@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+/* --------Background-Colors-------- */
+
+.bg-black{
+    background-color: #000;
+}
+
+/* --------Navbar-------- */
+
+.navbar-brand{
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 2em;
+}
+
+/* --------index-section-------- */
+
+.index-section{
+    background-image: url("/static/media/images/nipsey-hussle-index-page.jpg");
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* --------Media Queries-------- */
+
+@media only screen and (min-width: 1200px) {
+    .index-section{
+        height: 125vh; 
+    }
+}

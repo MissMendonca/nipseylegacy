@@ -5,7 +5,7 @@ One or two paragraphs providing an overview of your project.
 Essentially, this part is your sales pitch.
  
 ## UX
- 
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -75,6 +75,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The photos used in this site were obtained from ...
+Nipsey Hussle Index Page - https://abegmusicz.com/wp-content/uploads/2019/10/nipsey-hussle-blog.jpg;
+
 
 ### Acknowledgements
 
