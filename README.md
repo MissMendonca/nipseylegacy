@@ -44,6 +44,8 @@ Whenever it is feasible, prefer to automate your tests, and if you've done so, p
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
+
+
 1. Contact form:
     1. Go to the "Contact Us" page
     2. Try to submit the empty form and verify that an error message about the required fields appears
@@ -55,6 +57,8 @@ In addition, you should mention in this section how your project looks and works
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+HTML/CSS Validator - https://validator.w3.org/ 
 
 ## Deployment
 
@@ -72,6 +76,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Index page Nipsey Quote [brainyquote]https://www.brainyquote.com/quotes/nipsey_hussle_1000760 
+- Typewriter javascript code [w3schools]https://www.w3schools.com/howto/howto_js_typewriter.asp
 
 ### Media
 - The photos used in this site were obtained from ...

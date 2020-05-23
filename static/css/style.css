@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Frank+Ruhl+Libre:wght@400;500&family=Kaushan+Script&display=swap');
 
 /* --------Background-Colors-------- */
 
@@ -21,9 +21,51 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: #fff;
+}
+
+.index-content{
+    padding-top: 20%;
+    text-align: right;  
+    margin-left: 38.75%; 
+}
+
+#index-text{
+    font-family: 'Kalam', cursive;
+    font-size: 1.4em;
+    letter-spacing: 1px; 
+    text-align: left;
+}
+
+.index-name {
+    font-family: 'Frank Ruhl Libre', serif;
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.index-button{
+    font-size: 15px;
+    text-align: center;
 }
 
 /* --------Media Queries-------- */
+
+@media only screen and (min-width: 768px) {
+
+    .index-name{
+        font-size: 2.5em;
+    }
+    
+    .index-content{
+        margin-left: 55%;
+        padding-top: 12.5%;
+    }
+
+    #index-text{
+        font-size: 2.6em;
+    }
+   
+}
 
 @media only screen and (min-width: 1200px) {
     .index-section{
