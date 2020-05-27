@@ -63,7 +63,34 @@
     font-size: 18px;
 }
 
+/* --------Life Section-------- */
+
+#life-picture{
+    background-image: url("/static/media/images/nipsey-life.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.life-text{
+    margin: 0 15%;
+    font-size: 17px;
+}
+
+.life-h2{
+    border-bottom: 1px solid #000;
+    width: 90%;
+    margin-left: 5%;
+    padding-bottom: 15px;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+.nipsey-bio{
+    overflow:scroll;
+    height: 100vh;
+}
 /* --------Index Footer-------- */
+
 #social-media{
     font-size: 1.7rem;
 }

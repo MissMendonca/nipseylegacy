@@ -75,15 +75,23 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Life Page organisation was copied from the [Wikipedia Nipsey_Hussle](https://en.wikipedia.org/wiki/Nipsey_Hussle)
 - Index page Nipsey Quote [brainyquote]https://www.brainyquote.com/quotes/nipsey_hussle_1000760 
 - Typewriter javascript code [w3schools]https://www.w3schools.com/howto/howto_js_typewriter.asp
 
 ### Media
 - The photos used in this site were obtained from ...
 Nipsey Hussle Index Page - https://abegmusicz.com/wp-content/uploads/2019/10/nipsey-hussle-blog.jpg;
+Nipsey Hussle Life Page - https://express-images.franklymedia.com/6616/sites/265/2020/01/22213801/Getty-Nipsey-Hussle.jpg;
+Nipsey Hussle Movie - https://images.static-bluray.com/products/20/4541_1_front.jpg;
+Nipsey Hussle and his kids - https://bckonline.com/wp-content/uploads/2019/06/hussle3.jpg;
+Nipsey Hussle and Lauren London - https://i.pinimg.com/736x/35/46/a2/3546a2a16ddc8c4e97c041e102fec48a.jpg;
+Nipsey Hussle Concert - https://fomoblog.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-16-at-5.11.08-PM.png
+Nipsey Hussle Bet 2019 Awards - https://www.essence.com/wp-content/uploads/2019/06/GettyImages-1095819392.jpg?width=1920&height=1080;
+Nipsey Hussle, John Legend and Dj Khaled Higher Video - https://images.squarespace-cdn.com/content/5957d368414fb5261db46c11/1558451734671-CF8F9DHBWSAUF607S7R3/FullSizeRender.jpg?content-type=image%2Fjpeg;
+Nipsey Hussle Funeral - https://www3.pictures.zimbio.com/gi/Nipsey+Hussle+Celebration+Life+Inside+AYAuKo0q6Eex.jpg;
 
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from [biography]https://www.biography.com/activist/martin-luther-king-jr;
