@@ -83,14 +83,15 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The photos used in this site were obtained from ...
 Nipsey Hussle Index Page - https://abegmusicz.com/wp-content/uploads/2019/10/nipsey-hussle-blog.jpg;
 Nipsey Hussle Life Page - https://express-images.franklymedia.com/6616/sites/265/2020/01/22213801/Getty-Nipsey-Hussle.jpg;
-Nipsey Hussle Movie - https://images.static-bluray.com/products/20/4541_1_front.jpg;
 Nipsey Hussle and his kids - https://bckonline.com/wp-content/uploads/2019/06/hussle3.jpg;
-Nipsey Hussle and Lauren London - https://i.pinimg.com/736x/35/46/a2/3546a2a16ddc8c4e97c041e102fec48a.jpg;
-Nipsey Hussle Concert - https://fomoblog.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-16-at-5.11.08-PM.png
-Nipsey Hussle Bet 2019 Awards - https://www.essence.com/wp-content/uploads/2019/06/GettyImages-1095819392.jpg?width=1920&height=1080;
-Nipsey Hussle, John Legend and Dj Khaled Higher Video - https://images.squarespace-cdn.com/content/5957d368414fb5261db46c11/1558451734671-CF8F9DHBWSAUF607S7R3/FullSizeRender.jpg?content-type=image%2Fjpeg;
+Nipsey Hussle and Lauren London - https://i.insider.com/5ca4c26692c886204526c7c5?width=1136&format=jpeg;
+Nipsey Hussle Concert - https://fomoblog.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-16-at-5.11.08-PM.png;
+Nipsey Hussle Fan Wall - https://66.media.tumblr.com/f14e317a3e8b3d5aab52696ed926ae59/tumblr_ppswifCjpC1sxnfcxo1_1280.jpg; 
+Nipsey Hussle Bet 2018 Awards - https://www.essence.com/wp-content/uploads/2019/06/GettyImages-1095819392.jpg?width=1920&height=1080;
+Nipsey Hussle Community - https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/04/nipsey-hussle-jerritt-clark-getty-images-1068x700.jpg;
 Nipsey Hussle Funeral - https://www3.pictures.zimbio.com/gi/Nipsey+Hussle+Celebration+Life+Inside+AYAuKo0q6Eex.jpg;
-
+Nipsey Hussle Puma - https://i0.wp.com/afriupdate.com/wp-content/uploads/2019/08/nipsey-hussle-puma-california-release-date-10.jpg?resize=1140%2C800&ssl=1;
+Nipsey Hussle Fan Memorial - https://cdn.vox-cdn.com/thumbor/o87dEa_otnJOJaOFn-lCFvSk3cU=/0x0:3180x2136/1200x800/filters:focal(1336x814:1844x1322)/cdn.vox-cdn.com/uploads/chorus_image/image/64643769/12c89a3765.0.jpeg;
 
 ### Acknowledgements
 
