@@ -13,7 +13,7 @@
     font-size: 2.5em;
 }
 
-.navbar-dark .navbar-nav .nav-link, #social-media, .footer-items a{
+.navbar-dark .navbar-nav .nav-link, #social-media, .footer-items a, .nav-tabs .nav-link{
     color: #fff;
     font-size: 1.4rem;
     font-family: 'Frank Ruhl Libre', serif;
@@ -89,6 +89,35 @@
     overflow:scroll;
     height: 100vh;
 }
+
+/* --------Music Section-------- */
+
+.nav-tabs .nav-link{
+    color:#0072ce;
+    background-color: white;
+    border: 0;
+}
+
+.nav-tabs .nav-link.active{
+    border: 1px solid;
+    border-color: #DFD7CA #DFD7CA #fff;
+}
+
+.awards-table{
+
+    margin: 0 10px;
+    font-size: 16px;
+ }
+
+.awards-table tr{
+    border-bottom: 1px solid #000;
+}
+
+.awards-table th{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 1.4rem;
+}
+
 /* --------Index Footer-------- */
 
 #social-media{
@@ -138,6 +167,12 @@
         font-size: 2.6em;
     }
    
+   .awards-table{
+       width: 60%;
+       margin: 0 20%;
+       font-size: 18px;
+   }
+
 }
 
 @media only screen and (min-width: 1200px) {
