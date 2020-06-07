@@ -95,4 +95,4 @@ Nipsey Hussle Fan Memorial - https://cdn.vox-cdn.com/thumbor/o87dEa_otnJOJaOFn-l
 
 ### Acknowledgements
 
-- I received inspiration for this project from [biography]https://www.biography.com/activist/martin-luther-king-jr;
+- I received inspiration for this project from [biography]https://www.biography.com/activist/martin-luther-king-jr and timelines from [FreeFrontend]https://freefrontend.com/css-timelines/;

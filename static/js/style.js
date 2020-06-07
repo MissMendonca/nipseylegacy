@@ -13,3 +13,7 @@ var speed = 70; /* The speed/duration of the effect in milliseconds */
 document.getElementById("in-button").onclick = function () {
     location.href = "life.html";
 };
+
+
+
+
