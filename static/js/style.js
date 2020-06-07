@@ -15,5 +15,3 @@ document.getElementById("in-button").onclick = function () {
 };
 
 
-
-

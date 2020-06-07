@@ -118,6 +118,15 @@
     font-size: 1.4rem;
 }
 
+#dates{
+    overflow-x: scroll;
+    width: 100%;
+}
+
+.hide{
+    display: none;
+}
+
 .music-year a{
     font-size: 3.5em;
     font-weight: 500;
